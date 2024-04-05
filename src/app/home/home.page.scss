@@ -1,0 +1,52 @@
+.custom-card {
+  height: 200px; 
+  margin: 10px; 
+}
+
+ion-col {
+  margin-top: 10px; 
+}
+ion-card-title{
+  margin-top: 10px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 35px;
+
+}
+
+ion-card-content {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  text-align: center; 
+}
+.man{
+background-color: red;
+font-size: 80px;
+}
+.library{
+  background-color: red;
+  font-size: 80px;
+
+}
+.cocina{
+  background-color: red;
+  font-size: 80px;
+
+}
+.dormy{
+  background-color: red;
+  font-size: 80px;
+
+}
+.patio{
+  background-color: red;
+
+font-size: 80px;
+
+}
+.sala{
+background-color: red;
+font-size: 80px;
+
+}
